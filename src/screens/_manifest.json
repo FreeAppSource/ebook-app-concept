@@ -1,0 +1,39 @@
+{
+ "app": "Ebook App Concept",
+ "start": "book-dark",
+ "screens": [
+  {
+   "slug": "book-dark-3",
+   "name": "Book Dark 3",
+   "page": "Visual",
+   "w": 375,
+   "h": 812,
+   "elements": 27,
+   "links": 3
+  },
+  {
+   "slug": "book-dark-2",
+   "name": "Book Dark 2",
+   "page": "Visual",
+   "w": 375,
+   "h": 812,
+   "elements": 15,
+   "links": 1
+  },
+  {
+   "slug": "book-dark",
+   "name": "Book Dark",
+   "page": "Visual",
+   "w": 375,
+   "h": 812,
+   "elements": 52,
+   "links": 4
+  }
+ ],
+ "warnings": [],
+ "fontPackages": [
+  "montserrat",
+  "playfair-display",
+  "poppins"
+ ]
+}
